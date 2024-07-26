@@ -1,9 +1,9 @@
 # Vending Machine Project
 
 ## Table of contents
--[Describtion]
--[Libraries used]
--[Objectives]
+- [Description](#Description)
+- [Libraries](#Libraries)
+- [Objectives](#Objectives)
 
 ## Describtion
 This is a college project for programming course!<br/>
@@ -18,7 +18,7 @@ On the other hand, the operating mode is designed for customers to interact with
 
 To enhance the user experience, the vending machine also includes features such as displaying the available products, providing change if necessary, and notifying the customer if a selected product is out of stock. <br/>
 
-## Libraries used
+## Libraries
 <Vectors> : We used vectors library for storing the products in the vending machine. <br/>
 
 ## Objectives
