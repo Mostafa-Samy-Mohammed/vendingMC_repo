@@ -1,5 +1,10 @@
 /**
  * @file VendingMachine.h
+ * 
+ * @authors Eng. Mostafa Samy Mohammed,
+ *          Eng. Ahmed Osama Elgendy,
+ *          Eng. Ingy Ahmed Sherif
+ * 
  * @brief This header file contains the declaration of the VendingMachine class methods.
  * @version 0.6
  * @date 2023-12-30

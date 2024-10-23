@@ -1,5 +1,10 @@
 /**
  * @file LIB.h
+ * 
+ * @authors Eng. Mostafa Samy Mohammed,
+ *          Eng. Ahmed Osama Elgendy,
+ *          Eng. Ingy Ahmed Sherif
+ * 
  * @brief This header file contains all the libraries and classes needed for the program.
  * @version 0.3
  * @date 2024-07-21

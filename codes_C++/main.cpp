@@ -1,6 +1,10 @@
 /**
  * @file Vending Machine main file
- * @author Mostafa Samy Mohammed
+ * 
+ * @authors Eng. Mostafa Samy Mohammed,
+ *          Eng. Ahmed Osama Elgendy,
+ *          Eng. Ingy Ahmed Sherif
+ * 
  * @brief This file contains the main function that runs the vending machine.
  * @version 0.8
  * @date 2023-12-30

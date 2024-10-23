@@ -1,5 +1,10 @@
 /**
  * @file VendingMachine.cpp
+ * 
+ * @authors Eng. Mostafa Samy Mohammed,
+ *          Eng. Ahmed Osama Elgendy,
+ *          Eng. Ingy Ahmed Sherif
+ * 
  * @brief This file contains the implementation of the VendingMachine class methods.
  * @see VendingMachine.h
  * @version 0.6

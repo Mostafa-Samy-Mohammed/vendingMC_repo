@@ -1,6 +1,10 @@
 /**
  * @file Product.cpp
- * @author Mostafa Samy Mohammed
+ * 
+ * @authors Eng. Mostafa Samy Mohammed,
+ *          Eng. Ahmed Osama Elgendy,
+ *          Eng. Ingy Ahmed Sherif
+ * 
  * @brief This file contains the implementation of the Product class methods.
  * @see Product.h
  * @version 0.4

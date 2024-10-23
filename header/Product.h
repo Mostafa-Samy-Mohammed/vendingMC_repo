@@ -1,6 +1,10 @@
 /**
  * @file Product.h
- * @author Mostafa Samy Mohammed (mostafaasamyoo@outlook.com)
+ * 
+ * @authors Eng. Mostafa Samy Mohammed,
+ *          Eng. Ahmed Osama Elgendy,
+ *          Eng. Ingy Ahmed Sherif
+ * 
  * @brief   This header file contains the declaration of the Product class-
  *          -which is used to store the information of a product.
  *          The information includes the name of the product, the price, its count, expiration date,-
