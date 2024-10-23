@@ -9,8 +9,8 @@
 This is a college project for programming course!<br/>
 The project is vending machine with a variuos products to buy from, the vending machine has two modes: <br/><br/>
 
--- A programming mode for the for the programmer to add products, remove products, or edit their price. <br/>
--- An operating mode for the customers to buy the products they would like to. <br/><br/>
+-- Programming mode for the for the programmer to add products, remove products, or edit their price. <br/>
+-- Operating mode for the customers to buy the products they would like to. <br/><br/>
 
 The vending machine project is implemented in C++ and utilizes object-oriented programming principles. It consists of several classes such as `VendingMachine` class, and `Product` class, each has its attributes, and methods. <br/><br/>
 
